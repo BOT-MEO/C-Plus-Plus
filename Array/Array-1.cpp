@@ -4,7 +4,8 @@
 - In ra màn hình các số chẵn và tính tổng các số chẵn 
 */
 
-#include <iosteam>
+
+#include <iostream>
 
 using namespace std;
 
