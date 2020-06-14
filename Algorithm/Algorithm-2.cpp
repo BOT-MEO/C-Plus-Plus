@@ -19,9 +19,10 @@ int main(){
     cout<<"Nhap toa do diem C "<<endl;
     cout<<"Hoanh do diem C la X = ";cin>>x3;
     cout<<"Tung do diem C la y = ";cin>>y3;
-    AB = sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1));// Tính độ dài đoạn AB
-    BC = sqrt((x3-x2)*(x3-x2)+(y3-y2)*(y3-y2));// Tính độ dài đoạn BC
-    AC = sqrt((x3-x1)*(x3-x1)+(y3-y1)*(y3-y1));// Tính độ dài đoạn AC
+    // Thuật toán tính toán độ dài các cạnh AB, BC, AC
+    AB = sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1));// Tính AB
+    BC = sqrt((x3-x2)*(x3-x2)+(y3-y2)*(y3-y2));// Tính BC
+    AC = sqrt((x3-x1)*(x3-x1)+(y3-y1)*(y3-y1));// Tính AC
     // In ra kết quả độ dài AB, BC, AC 
     cout<<"Do dai doan AB = "<<AB<<endl;
     cout<<"Do dai doan BC = "<<BC<<endl;
