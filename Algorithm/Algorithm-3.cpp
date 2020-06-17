@@ -21,7 +21,7 @@ int main(){
     else if(x<=-1){
         F=pow(x,2)+2*x+5;
     }
-    else if(x>-1||x<1){
+    else if(x>-1&&x<1){
         F=3*x+5;
     }
     cout<<"Gia tri cua bieu thuc f(x) la: "<<F<<endl;    
