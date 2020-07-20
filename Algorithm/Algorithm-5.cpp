@@ -21,7 +21,7 @@ int main(){
         cout<<n<<" La so chính phuong";
     }
     else{
-        cout<<n<<" Khong la so chinh phuong"
+        cout<<n<<" Khong la so chinh phuong";
     }
     return 0;
 }
