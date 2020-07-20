@@ -19,10 +19,10 @@ int main(){
 	}
 	for(int i=1;i<=n;i++){
 		if(i%3==0){
-			dem3 = dem3 + 1; //dem3++
+			dem3 = dem3 + 1; 
 		}
 		if(i%7==0){
-			dem7 = dem7 + 1; //dem7++
+			dem7 = dem7 + 1; 
 		}
 		if(i%3==0&&i%7==0){
 			demtong = demtong + 1;

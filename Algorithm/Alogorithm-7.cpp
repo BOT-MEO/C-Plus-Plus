@@ -3,7 +3,6 @@
     S = 1/sqrt(1*3) + 1/sqrt(3*5) + ... + 1/sqrt((2n-1)*(2n+1))
 */
 
-
 #include <iostream>
 #include <math.h>
 
