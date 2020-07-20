@@ -7,15 +7,15 @@
 
 using namespace std;
 
-void NhapMaTran(a[][100],int m,int n){
+void NhapMaTran(int a[50][50],int m,int n){
     for(int i=0;i<m;i++){
         for(int j=0;j<n;j++){
-            cout<<"Nhap ma tran: ";
+            cout<<"a "<<"["<<i<<"]"<<"["<<j<<"]"<<": ";
             cin>>a[i][j];
         }
     }
 }
-void XuatMaTran(a[][100],int m,int n){
+void XuatMaTran(int a[50][50],int m,int n){
     for(int i=0;i<m;i++){
         for(int j=0;j<n;j++){
             cout<<a[i][j];
