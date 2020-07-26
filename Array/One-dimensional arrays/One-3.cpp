@@ -1,6 +1,6 @@
 /* Nhập vào dãy số nguyên gồm n phần tử (5<=n<=30)
 - Tìm phần tử lớn nhất trong dãy
-- Chỉ ra vị trí phần tử đó trong dãy
+- Tìm phần tử nhỏ nhất trong dãy
 */
 
 #include <iostream>
@@ -8,9 +8,9 @@
 
 using namespace std;
 int main(int argc, char** argv){
-	int n, dem=1;
+	int n;
 	int a[30];
-	int max=0;
+	int max=0,min=0;
 	cout<<"Nhap n: ";
 	cin>>n;
 	while(n<5||n>30){
@@ -24,11 +24,15 @@ int main(int argc, char** argv){
 	for(int i=0;i<n;i++){
 		if(a[i]>max){
 			max = a[i];
-			dem = dem+1;
+		}
+	}
+	for(int i=0;i<n;i++){
+		if(min>a[i]){
+			min = a[i];
 		}
 	}
 	cout<<"Phan tu lon nhat trong day la: "<<max<<endl;
-	cout<<"Vi tri cua phan tu lon nhat trong day la: "<<dem<<endl;
+	cout<<"Phan tu nho nhat trong day la: "<<min<<endl;
 	system("PAUSE");
 	return 0;
 }
