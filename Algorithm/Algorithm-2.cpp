@@ -1,5 +1,5 @@
 /*
-- Nhập vào số nguyên n cho đến khi thỏa mãn 1<=n<=100
+- Nhập vào số nguyên n cho đến khi thỏa mãn 1≤n≤100
 - Tính và in ra tổng: S = sqrt(1^3+2^3+3^3+...+n^3)/n
 */
 

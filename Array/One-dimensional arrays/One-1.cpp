@@ -1,4 +1,4 @@
-/* Nhập vào một dãy n số nguyên, với n nhập vào từ bàn phím và n thỏa mãn 7<=n<=60
+/* Nhập vào một dãy n số nguyên, với n nhập vào từ bàn phím và n thỏa mãn 7≤n≤60
 - Sắp xếp dãy theo chiều giảm dần và in ra kết quả
 - Sắp xếp dãy theo chiều tăng dần và in ra kết quả 
 */

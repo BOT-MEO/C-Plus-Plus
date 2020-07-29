@@ -1,4 +1,4 @@
-/* Đề bài: Nhập vào một số nguyên n cho đến khi thỏa mãn 50<=n<=100
+/* Đề bài: Nhập vào một số nguyên n cho đến khi thỏa mãn 50≤n≤100
 - Kiểm tra n có phải số chính phương không
 - In kết quả ra màn hình
 */

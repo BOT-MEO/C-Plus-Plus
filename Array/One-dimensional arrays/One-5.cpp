@@ -1,4 +1,4 @@
-/* Đề bài: Nhập vào một dãy số gồm n phần tử với 5<=n<=100
+/* Đề bài: Nhập vào một dãy số gồm n phần tử với 5≤n≤100
 - Kiểm tra xem trong dãy số có giá trị k không (với k nhập từ bàn phím)
 - In kết quả lên màn hình
 */

@@ -1,4 +1,4 @@
-/* Nhập vào dãy số nguyên gồm n phần tử (5<=n<=30)
+/* Nhập vào dãy số nguyên gồm n phần tử (5≤n≤30)
 - Tìm phần tử lớn nhất trong dãy
 - Tìm phần tử nhỏ nhất trong dãy
 */

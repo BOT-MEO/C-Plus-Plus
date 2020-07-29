@@ -1,9 +1,9 @@
 /* Đề bài: 
 - Nhập vào số thực x
 - Tính và in ra giá trị hàm 
- f(x) = sqrt(pow(x,2)+1) với x>=1 
+ f(x) = sqrt(pow(x,2)+1) với x≥1 
         3x+5 với -1<x<1
-        pow(x,2)+2*x-5 với x<=-1
+        pow(x,2)+2*x-5 với x≤-1
 */
 
 #include <iostream>

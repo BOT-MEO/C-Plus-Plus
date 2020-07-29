@@ -1,4 +1,4 @@
-/* Nhập từ bàn phím giá trị của n sao cho 2<=n<=30
+/* Nhập từ bàn phím giá trị của n sao cho 2≤n≤30
 - Tính và in ra tổng
     S = 1/sqrt(1*3) + 1/sqrt(3*5) + ... + 1/sqrt((2n-1)*(2n+1))
 */

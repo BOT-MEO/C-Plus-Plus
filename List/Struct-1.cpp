@@ -1,6 +1,6 @@
 /* Đề bài: Viết các chương trình C++ thực hiện công việc sau: 
 - Xây dựng cấu trúc (struct) lưu thông tin sinh viên bao gồm: Tên sinh viên; Điểm thi.
-- Thực hiện nhập vào N số nguyên từ bàn phím cho tới khi thỏa mãn 2 < N < 40.
+- Thực hiện nhập vào N số nguyên từ bàn phím cho tới khi thỏa mãn 2<N<40.
 - Nhập vào và hiển thị thông tin về N sinh viên ?
 */
 #include <iostream>

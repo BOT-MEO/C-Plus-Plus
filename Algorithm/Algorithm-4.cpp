@@ -1,5 +1,5 @@
 /* Đề bài: 
-- Nhập vào số nguyên n cho đến khi thỏa mãn 5<=n<=100
+- Nhập vào số nguyên n cho đến khi thỏa mãn 5≤n≤100
 - Tính và in ra tổng S = pow(1,2)+pow(2,2)+pow(3,2)+...+pow(n,2)
 */
 
@@ -10,6 +10,7 @@ using namespace std;
 
 int main(){
     int n;
+    int i=0;
     float S=0;
     cout<<"Nhap n = ";
     cin>>n;

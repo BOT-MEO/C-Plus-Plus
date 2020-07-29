@@ -2,9 +2,9 @@
     Lương = Tiền lương * Số ngày công
     Thưởng = Lương * Hệ số
 - Hệ số được tính như sau:
-    + Nếu 26<= Số ngày công <=31 thì hệ số bằng 2.0
-    + Nếu 24<= Số ngày công <=26 thì hệ số bằng 1.45
-    + Còn lại số ngày công <=23 thì hệ số bằng 1.13
+    + Nếu 26≤Số ngày công≤31 thì hệ số bằng 2.0
+    + Nếu 24≤Số ngày công≤26 thì hệ số bằng 1.45
+    + Còn lại số ngày công ≤23 thì hệ số bằng 1.13
 - Hãy nhập tiền công (là số lương của một ngày làm việc) và số ngày công từ bàn phím
 */
 

@@ -1,4 +1,4 @@
-/* Đề bài: Nhập vào một số nguyên N thỏa mãn điều kiện 5 <= n <= 50 
+/* Đề bài: Nhập vào một số nguyên N thỏa mãn điều kiện 5≤n≤50 
 - Nhập vào một dãy số Un gồm N phần tử 
 - In ra dãy số vừa nhập
 - In ra màn hình các số chẵn và tính tổng các số chẵn 
